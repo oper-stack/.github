@@ -28,7 +28,7 @@ it is. Five areas, one score, the same engine everywhere.
 
 An audit that explains why the site brings no leads, a fix that closes the checks
 a machine can close, and a pipeline for building the pages that are missing.
-All of it at **[oper-stack.com](https://oper-stack.com)**. Mail: hello@oper-stack.com
+All of it at **[oper-stack.com](https://oper-stack.com)**. Mail: info@oper-stack.com
 
 ---
 
