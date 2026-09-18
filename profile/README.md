@@ -15,6 +15,7 @@ are the tools we use to measure it. Six of them are free and need no signup.
 | **[astro-starter](https://github.com/oper-stack/astro-starter)** | Astro starter for content sites that rank, get cited and convert | [repo](https://github.com/oper-stack/astro-starter) |
 | **[audit-generator](https://github.com/oper-stack/audit-generator)** | collects public signals into `audit.json` and fills a readable report | `npx @operstack/audit` |
 | **AI Visibility Checker** | a score out of 100 in under a minute, in the browser, no signup | [oper-stack.com](https://oper-stack.com) |
+| **[brand](https://github.com/oper-stack/brand)** | marks, wordmarks, social cards, brand guide | |
 
 ### What the checks look at
 
@@ -27,7 +28,7 @@ it is. Five areas, one score, the same engine everywhere.
 
 An audit that explains why the site brings no leads, a fix that closes the checks
 a machine can close, and a pipeline for building the pages that are missing.
-All of it at **[oper-stack.com](https://oper-stack.com)**.
+All of it at **[oper-stack.com](https://oper-stack.com)**. Mail: hello@oper-stack.com
 
 ---
 
